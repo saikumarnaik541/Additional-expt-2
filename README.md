@@ -35,4 +35,4 @@ class Fibonacci{
  }
 ```
 # output:
-![output of add expt-2](Screenshot 2026-01-09 103550.png)
+![output of add expt-2](Screenshot2026-01-09103550.png)
